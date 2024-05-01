@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"deck_reposition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deck_reposition",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

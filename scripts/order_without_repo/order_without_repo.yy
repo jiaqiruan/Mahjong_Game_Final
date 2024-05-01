@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"order_without_repo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"order_without_repo",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

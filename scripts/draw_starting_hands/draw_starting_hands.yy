@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_starting_hands",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_starting_hands",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

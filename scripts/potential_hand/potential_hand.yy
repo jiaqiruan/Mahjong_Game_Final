@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"potential_hand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"potential_hand",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

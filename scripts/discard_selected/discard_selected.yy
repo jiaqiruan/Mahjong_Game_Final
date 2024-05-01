@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"discard_selected",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"discard_selected",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
